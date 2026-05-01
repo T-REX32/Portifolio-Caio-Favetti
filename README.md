@@ -64,17 +64,6 @@ Formação
 * Formação em Python (480h) — Entra21 / Blusoft
 * Formação Tech Gamer — Proway (em andamento)
 
-## Projetos
-
-*(Aqui você pode adicionar projetos do GitHub — mesmo que sejam simples!)*
-
-Sugestões para você colocar depois:
-
-* Sistema simples em Java (login, cadastro, etc.)
-* API básica
-* Projeto web (HTML/CSS/JS)
-* Algoritmos (número primo, número perfeito, etc.)
-
 ## Links
 
 * LinkedIn:
