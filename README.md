@@ -1,5 +1,5 @@
-# Porti-lio-Caio-Favetti
-Aqui é o meu portifólio, fiquem a vontade para ler!
+### Portifólio Caio Favetti
+ - Aqui é o meu portifólio, fiquem a vontade para ler!
 
 ## Sobre mim
 
