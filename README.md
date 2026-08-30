@@ -1,87 +1,95 @@
-### Portifólio Caio Favetti
- - Aqui é o meu portifólio, fiquem a vontade para ler!
 
-## Sobre mim
+<img width="211" height="178" alt="Captura de tela 2026-01-22 161157" src="https://github.com/user-attachments/assets/883eae2a-1692-41f0-b176-3689e80b0f9e" />
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pelo SENAI em Blumenau, com formação complementar em Python pelo programa Entra21 (Blusoft) e experiência prática em desenvolvimento web, programação e banco de dados.
 
-Tenho grande interesse na área de tecnologia, especialmente em desenvolvimento de sistemas e jogos. Estou constantemente aprendendo novas linguagens, ferramentas e boas práticas para evoluir como desenvolvedor.
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas pelo SENAI Blumenau, com formação complementar em Python (480h) pelo programa Entra21 / Blusoft.
 
-Além disso, sou uma pessoa proativa, organizada e com facilidade para trabalhar em equipe, sempre buscando melhorar minhas habilidades técnicas e pessoais.
+Tenho experiência prática com programação, desenvolvimento web e banco de dados, além de projetos e estudos voltados à tecnologia.
 
-### Habilidades Técnicas
+Atualmente busco oportunidades na área de Tecnologia, com interesse em Desenvolvimento de Software, Python, Inteligência Artificial, Machine Learning e Visão Computacional.
 
-## Linguagens e Tecnologias
+Tecnologias e conhecimentos
+Linguagens
+Python
+Java
+JavaScript
+HTML5
+CSS3
+Frameworks e ferramentas
+Django
+Bootstrap
+jQuery
+Git
+Banco de dados
+MySQL
+Outros conhecimentos
+Lógica de Programação
+Estrutura de Dados
+Desenvolvimento Web
+Front-end e Back-end
+APIs
+Controle de versão
+Metodologias Ágeis
+Interesse em Inteligência Artificial
 
-* Java
-* Python
-* JavaScript
-* HTML5 e CSS3
-* Bootstrap
-* jQuery
-* MySQL
+Tenho interesse em ampliar meus conhecimentos nas áreas de:
 
-Outras Competências
+Inteligência Artificial
+Machine Learning
+Visão Computacional
+Anotação e rotulagem de imagens
+Organização e preparação de datasets
+Python aplicado à Inteligência Artificial
 
-* Lógica de Programação e Estrutura de Dados
-* Desenvolvimento Web (Front-end e Back-end)
-* APIs
-* Controle de versão (Git)
-* Metodologias Ágeis
+Estou constantemente estudando e buscando novos conhecimentos para desenvolver minhas habilidades na área de tecnologia.
 
----
+Desenvolvimento de Jogos
 
-Desenvolvimento de Jogos (em andamento)
+Atualmente estudo Unreal Engine e Game Design, explorando:
 
-Atualmente estou estudando desenvolvimento de jogos com Unreal Engine, aprendendo:
-
-* Criação de mecânicas
-* Lógica de gameplay
-* Desenvolvimento em ambiente 3D
-* Game Design
-
----
-
+Criação de mecânicas
+Lógica de gameplay
+Desenvolvimento em ambiente 3D
+Game Design
 Experiência Profissional
-
 Senior Sistemas — Menor Aprendiz
 
 Atuação no setor financeiro, realizando:
 
-* Cobrança de clientes
-* Prorrogação de boletos
-* Negativação de títulos (SERASA)
-* Envio de notas fiscais e boletos
-
+Cobrança de clientes
+Prorrogação de boletos
+Negativação de títulos
+Envio de notas fiscais e boletos
+Organização e controle de informações
 Amcom Sistemas — Auxiliar Administrativo
-
-* Atuação com alocação
-* Cobrança de apontamento de horas no sistema
-
+Alocação de profissionais
+Acompanhamento e cobrança de apontamento de horas
+Organização de informações e processos administrativos
 Formação
+Tecnólogo em Análise e Desenvolvimento de Sistemas — SENAI Blumenau
+Formação em Python — 480h — Entra21 / Blusoft
+Formação Tech Gamer — Proway
+Projetos
 
-* Tecnólogo em Análise e Desenvolvimento de Sistemas — SENAI (em andamento)
-* Formação em Python (480h) — Entra21 / Blusoft
-* Formação Tech Gamer — Proway (em andamento)
+Este repositório reúne meus projetos de desenvolvimento, estudos e experimentos realizados durante minha formação.
 
-## Links
+Os projetos demonstram minha evolução em programação, desenvolvimento web, banco de dados e outras tecnologias.
 
-* LinkedIn:
-  https://www.linkedin.com/in/caiofavetti/
+Competências
+Proatividade
+Organização
+Atenção aos detalhes
+Facilidade para aprender
+Trabalho em equipe
+Comunicação
+Adaptabilidade
+Aprendizado contínuo
+Objetivo
 
-## Competências Pessoais
+Busco uma oportunidade na área de Tecnologia onde possa aplicar meus conhecimentos, aprender novas ferramentas e contribuir com a equipe.
 
-* Proatividade
-* Facilidade em aprender
-* Trabalho em equipe
-* Organização
-* Adaptabilidade
-* Boa comunicação
+Tenho especial interesse em oportunidades envolvendo Python, desenvolvimento de software, Inteligência Artificial, Machine Learning, dados e Visão Computacional.
 
-## Objetivo
+Linkedin: https://www.linkedin.com/in/caio-favetti-54301b319/
 
-Busco uma oportunidade na área de tecnologia onde eu possa desenvolver minhas habilidades como programador, contribuir com soluções e crescer profissionalmente junto à equipe.
-
-## Contato
-
-* Email: [kaiokenfavetti@gmail.com]
+Email: kaiokenfavetti@gmail.com
